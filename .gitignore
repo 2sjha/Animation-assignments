@@ -1,0 +1,10 @@
+*helloworld
+*.out
+*main
+*build/
+*.zip
+*.vs/
+*.sln
+*.vcxproj*
+*Release*
+*Debug*
